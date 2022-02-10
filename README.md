@@ -4,8 +4,8 @@ Discord Rich Presence for Fivem
 Installation!
 
 
-[Capture d’écran 2022-02-10 2236491111111](https://user-images.githubusercontent.com/32369408/153502222-66ebfe44-d0dc-45d8-94ef-9b7682264438.png)
 
 
 
 
+![img](https://user-images.githubusercontent.com/32369408/153504018-92e515e7-fbea-4542-9418-2f1f8e086f96.png)
