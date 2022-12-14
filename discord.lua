@@ -7,12 +7,12 @@ function SetRP()
     local id = GetPlayerServerId(PlayerId())
 
     SetDiscordAppId('442784212794212363')
-	SetDiscordRichPresenceAsset('9a3da')
-	SetDiscordRichPresenceAssetText('')
-	SetDiscordRichPresenceAssetSmall('')
-	SetDiscordRichPresenceAssetSmallText('')
+	SetDiscordRichPresenceAsset('logo')
+	SetDiscordRichPresenceAssetText1('Text1')
+	SetDiscordRichPresenceAssetSmall('logo')
+	SetDiscordRichPresenceAssetSmallText('Text2')
 	SetDiscordRichPresenceAction(0, "join Server!", "fivem://connect/localhost:30120") -- Button 1, config: 0 = number of button 0-1 / Button Text / Link that opens when you click button
-    SetDiscordRichPresenceAction(1, "join Discord!", "https://dsc.gg/9a3da-gaming-roleplay")
+    SetDiscordRichPresenceAction(1, "join Discord!", "https://discord.gg/?????")
      
 end
 
